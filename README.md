@@ -13,7 +13,7 @@
 
 - 📫You can reach me at **shashankgaur84@gmail.com**
 
-- ⚡ Fun fact **I am analytical and creative as from school time i was the nuber one debater and content writer of our batch.**
+- ⚡ Fun fact **I am analytical and creative as from school time i was the number one debater and content writer of our batch.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
