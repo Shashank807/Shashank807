@@ -1,19 +1,20 @@
-[![MasterHead](https://www.liveabout.com/thmb/ubigk5551ZbY0jc4jpXwZdgwLnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/web-developer-job-description-salary-and-skills-2061841_final-edit-01-ac18fd4e99df46e990e4277a821faa0f.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋 Fellow Tech Lovers!! I'am Shashank Gaur</h1>
-<h3 align="center">A Full Stack Web Developer from India who loves to make websites Classy and elegant</h3>
+<h3 align="center">A Full Stack Web Developer and problem solver from India who loves to  solves problems be it real life OR DSA one's and to make websites classy and elegent.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently increasing my experience in full stack development using **React, Express, Mongo DB, Firebase, Postman, REST API's.**
 
-- 👯 I’m looking to collaborate on **Some projects.**
+- 👯 I’m looking to collaborate on **Some interseting  projects related to a good real life problem.**
 
-- 💬 Ask me about **HTML, CSS, JS, React, Express, Mongo DB, Firebase, Postman, REST API's. Also about Data Structures and algorithm.**
+- 💬 Ask me about **Data Structures and algorithm and HTML, CSS, JS, React, Express, Mongo DB, Firebase, Postman, REST API's. **
 
 - 📫You can reach me at **shashankgaur84@gmail.com**
 
-- ⚡ Fun fact **I am analytical and creative as from school time i was the number one debater and content writer of our batch.**
+- ⚡ Fun fact **I am analytical and creative as from school time i was the number one debater and content writer of our batch.
+-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
